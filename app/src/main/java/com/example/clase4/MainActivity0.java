@@ -15,7 +15,6 @@ import com.example.clase4.services.TypicodeService;
 public class MainActivity0 extends AppCompatActivity {
 
         private ActivityMainBinding binding;
-        TypicodeService typicodeService;
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {

@@ -15,7 +15,7 @@ import java.util.concurrent.ExecutorService;
 public class MainActivity1 extends AppCompatActivity {
 
     private ActivityMainBinding binding;
-    TypicodeService typicodeService;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
